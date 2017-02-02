@@ -1,0 +1,9 @@
+{
+	"mapZoom": 15,
+	"offsetX": -50,
+	"offsetY": 100,
+	"markerImagePath": "assets/img/marker-21x32.png",
+	"markerAddress": "178 Doveston St N Ballarat Central",
+	"balloons": [
+		"Ballarat Library" ]
+}
